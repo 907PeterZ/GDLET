@@ -1,1 +1,2 @@
-htmlpreview.github.io/?result/可视化大屏.html
+由于可视化大屏.html引用了result中所有的文件，所以需要下载整个html文件才能顺利运行
+代码用python编写，过程在Notebook中展示
