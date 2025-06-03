@@ -1,2 +1,4 @@
-由于可视化大屏.html引用了result中所有的文件，所以需要下载整个html文件才能顺利运行
-代码用python编写，过程在Notebook中展示
+result、代码及中间过程、nltk.data三个文件夹独立互不影响
+由于可视化大屏.html引用了result中所有的文件，所以需要下载整个result文件夹才能顺利运行
+代码用python编写，Notebook呈现了中间过程
+nltk.data为nltk库的语料库，用于实现分词和同义词替换的功能
