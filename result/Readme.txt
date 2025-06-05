@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:18ee261e52662224ee68094cf8657ee3a443fc022f7451cfc0399904735f3dd1
-size 136
+本文件夹存放可视化结果。
+对于单个可视化图片，由于字体颜色被设置为了白色（方便可视化大屏的呈现），所以需要将网页界面设置为黑色才能看清字体内容。
+对于可视化大屏的最终呈现，需要整个result文件夹，因为可视化大屏的html与JavaScript中用到了result文件夹中不同的部分。
