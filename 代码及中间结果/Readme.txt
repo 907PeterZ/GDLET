@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0215283b5524e09509f81b59f1fe70a99bb084e3ea9798e2793d6ae8bccbc278
-size 21
+缺少数据集，数据集下载链接http://data.gdeltproject.org/gkg/index.html
+依据下载文件的日期去更改“文件整合.py”里面对应日期列表即可
+后续文件整合以及数据预处理会自动生成对应的合并数据集combined_data.csv和经过处理的数据集preprocessed_data.csv。
